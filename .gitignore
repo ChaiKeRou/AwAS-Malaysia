@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+camera_sdf_checkpoints/
+**/__pycache__/
+*.pyc
+*.pyo.DS_Store
+.DS_Store
+.stream_event_ab_checkpoints/
+.stream_abc_with_avg_speed_checkpoints/
+.unmatch_a_checkpoints/
+pyproject.toml
